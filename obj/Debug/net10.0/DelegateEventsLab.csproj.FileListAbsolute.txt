@@ -1,0 +1,14 @@
+C:\myfiles\DelegateEventsLab\bin\Debug\net10.0\DelegateEventsLab.exe
+C:\myfiles\DelegateEventsLab\bin\Debug\net10.0\DelegateEventsLab.deps.json
+C:\myfiles\DelegateEventsLab\bin\Debug\net10.0\DelegateEventsLab.runtimeconfig.json
+C:\myfiles\DelegateEventsLab\bin\Debug\net10.0\DelegateEventsLab.dll
+C:\myfiles\DelegateEventsLab\bin\Debug\net10.0\DelegateEventsLab.pdb
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\DelegateEventsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\DelegateEventsLab.AssemblyInfoInputs.cache
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\DelegateEventsLab.AssemblyInfo.cs
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\DelegateEventsLab.csproj.CoreCompileInputs.cache
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\DelegateEventsLab.dll
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\refint\DelegateEventsLab.dll
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\DelegateEventsLab.pdb
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\DelegateEventsLab.genruntimeconfig.cache
+C:\myfiles\DelegateEventsLab\obj\Debug\net10.0\ref\DelegateEventsLab.dll
